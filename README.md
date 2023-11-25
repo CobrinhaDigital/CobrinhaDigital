@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>.*･｡ﾟ☆｡ Boas-vindas! .*･｡ﾟ☆｡</h1>
 
-<!--
-**CobrinhaDigital/CobrinhaDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>💻 Estudante de Eng. de Computação</p>
+<p>💼 Front-End e Web Development</p>
+<p>💕 Mobile, Games, Data Science</p>
 
-Here are some ideas to get you started:
+<h1> ｡☆ﾟ.*･ Stack .*･｡ﾟ☆｡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<!-- um saco separar essas badges te falar viu vai ficar junta mesmo --!>
