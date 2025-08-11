@@ -1,8 +1,8 @@
 <h1>.*･☆｡ Boas-vindas! .*･☆｡</h1>
 
-<p>💻 Estudante de Eng. de Computação</p>
-<p>💼 Front-End e Web Development</p>
-<p>💕 Mobile, Games, Data Science</p>
+<p>💻 Estudante de Engenharia de Computação</p>
+<p>💼 Mobile & Web Development</p>
+<p>💕 AI/ML, Games, Data Science</p>
 
 <h1> ｡☆.*･ Stack .*･☆｡</h1>
 
