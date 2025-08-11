@@ -1,4 +1,4 @@
-<h1>.*･｡ﾟ☆｡ Boas-vindas! .*･｡ﾟ☆｡</h1>
+<h1>.*･☆｡ Boas-vindas! .*･☆｡</h1>
 
 <p>💻 Estudante de Eng. de Computação</p>
 <p>💼 Front-End e Web Development</p>
