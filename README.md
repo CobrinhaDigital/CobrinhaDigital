@@ -1,13 +1,13 @@
 <h1>.*･☆｡ Boas-vindas! .*･☆｡</h1>
 
-<p>💻 Estudante de Engenharia de Computação</p>
+<p>💻 Computer Engineering Student</p>
 <p>💼 Mobile & Web Development</p>
 <p>💕 AI/ML, Games, Data Science</p>
 
 <h1> ｡☆.*･ Stack .*･☆｡</h1>
 
 <div>
-    <h3>Linguagens<h3>
+    <h3>Languages <h3>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>  
     </h3>
-    <h3>Versionamento de código</h3>
+    <h3>Code Versioning</h3>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     </h3>
-    <h3>Ferramentas</h3>
+    <h3>Tools</h3>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
