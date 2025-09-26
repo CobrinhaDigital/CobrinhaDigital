@@ -1,10 +1,10 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&letterSpacing=100&duration=2500&pause=1000&color=BB93FB&vCenter=true&width=550&lines=%EF%BD%A1%E2%98%86.*%EF%BD%A5+Hello%2C+world!+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*%EF%BD%A5+Ol%C3%A1%2C+mundo!+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*+Bonjour%2C+monde!+.*%EF%BD%A5%E2%98%86%EF%BD%A1" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&letterSpacing=100&duration=2500&pause=1000&color=FF3FA1&vCenter=true&width=550&lines=%EF%BD%A1%E2%98%86.*%EF%BD%A5+Hello%2C+world!+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*%EF%BD%A5+Ol%C3%A1%2C+mundo!+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*+Bonjour%2C+monde!+.*%EF%BD%A5%E2%98%86%EF%BD%A1" alt="Typing SVG"/></h1>
 
 <p>💻 Computer Engineering Student</p>
 <p>💼 Mobile & Web Development</p>
 <p>💕 AI/ML, Games, Data Science</p>
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&letterSpacing=100&duration=2500&pause=1000&color=BB93FB&vCenter=true&width=550&lines=%EF%BD%A1%E2%98%86.*%EF%BD%A5+My+Stack+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*%EF%BD%A5+Always+in+progress+.*%EF%BD%A5%E2%98%86%EF%BD%A1" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&letterSpacing=100&duration=2500&pause=1000&color=FF3FA1&vCenter=true&width=550&lines=%EF%BD%A1%E2%98%86.*%EF%BD%A5+My+Stack+.*%EF%BD%A5%E2%98%86%EF%BD%A1;%EF%BD%A1%E2%98%86.*%EF%BD%A5+Always+in+progress+.*%EF%BD%A5%E2%98%86%EF%BD%A1" alt="Typing SVG" /></a></h1>
 
 <div>
     <h3>✨ Languages<h3>
